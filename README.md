@@ -20,8 +20,8 @@
 
 ## 🎮 Intereses & Aficiones
 
-* 💻 **Gaming & Emulación:** Optimización de emuladores, juegos competitivos (*Counter-Strike*, *Valorant*) y *Minecraft* con mods.
-* 🏓 **Deportes:** Tenis de mesa.
+* 💻 **Gaming & Emulación:** Optimización de emuladores Y juegos competitivos 
+* 🏐 **Deportes:** Voleibol y Gimnasio.
 * 🛠️ **Hardware:** Mantenimiento y optimización de equipos informáticos.
 
 ---
